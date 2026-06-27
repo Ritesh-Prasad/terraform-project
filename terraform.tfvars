@@ -10,7 +10,7 @@ instance_name = "jenkins"
 
 security_group_name = ["project-All-traffic"]
 
-volume_size = 30
+volume_size = 25
 
 volume_type = "gp3"
 
